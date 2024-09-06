@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "836886861033",
+    "project_id": "sutlej-club-5df76",
+    "storage_bucket": "sutlej-club-5df76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836886861033:android:b7962d65d82cdd974d8c78",
+        "android_client_info": {
+          "package_name": "com.auribises.sutlej_club"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836886861033-ale9vmmon83vktrn21tla56t66vrsnd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCplAxWixgG5VC0sBP8ENqCx8fhxuD-tkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836886861033-ale9vmmon83vktrn21tla56t66vrsnd7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "836886861033-nnhjpliuta49uv6bu0bd0csviio2cgju.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.auribises.sutlejClub.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
